@@ -20,4 +20,21 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjilalom&show_icons=true&locale=en" alt="tanjilalom" /></p> <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjilalom&label=Profile%20views&color=0e75b6&style=flat" alt="tanjilalom" /> </p>
+<p align="left">
+       <a href="https://stackoverflow.com/users/22109115/tanjil-alom">
+       <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
+       </a>
+       <a href="https://github.com/tanjilalom?tab=followers">
+       <img alt="GitHub followers" src="https://img.shields.io/github/followers/tanjilalom?color=green&logo=github">
+       </a>
+       <a href="https://github.com/tanjilalom/">
+       <img src="https://komarev.com/ghpvc/?username=tanjilalom" alt="visitors" />
+       </a>      
+       <a href="https://github.com/tanjilalom/">
+       <img src="https://img.shields.io/badge/living-Dhaka-ff69b4?username=tanjilalom" alt="living" />
+       </a> 
+  
+<!--   <a href="https://github.com/MafujulHaquePlabon/">
+       <img src="https://img.shields.io/badge/projects-12-important?username=MafujulHaquePlabon" alt="projects" />
+       </a>  -->
+  </p>
