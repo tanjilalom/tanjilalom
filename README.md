@@ -24,11 +24,12 @@
 <br> <br>
 
 
-<!--
+
 <img src="https://raw.githubusercontent.com/tanjilalom/tanjilalom/output/snake.svg" alt="Snake animation" />
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=tanjilalom&theme=nord" alt="Layout with last medium posts"  />
 </div>
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjilalom&theme=nord&show_icons=true&locale=en&layout=compact" alt="tanjilalom" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjilalom&show_icons=true&locale=en" alt="tanjilalom" /></p> <br> -->
 
