@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanjil Alom</h1>
-<h3 align="center">Software Developer | Android Developer</h3>
+<h3 align="center">Android Developer | Software Developer </h3>
 
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me **tanjilalom123@gmail.com**
