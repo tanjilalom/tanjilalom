@@ -37,17 +37,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjilalom&locale=en&layout=compact&card_width=320&langs_count=6&theme=nightowl&order=2" height="165" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=tanjilalom&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&locale=en&order=1" height="165" alt="stats graph" />
   
-  </div>
+</div>
   
-  <div align="center">
-       
+<div align="center">
+  
   <img src="https://streak-stats.demolab.com?user=tanjilalom&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="170" width="500" alt="streak graph"  /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilalom&radius=16&theme=material&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+
 </div>
 
 ###
-
-
 
 
 
