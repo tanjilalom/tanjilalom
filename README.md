@@ -60,6 +60,14 @@
 -->
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tanjilalom/tanjilalom/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 <p align="left">
        <a href="https://stackoverflow.com/users/22109115/tanjil-alom">
        <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
