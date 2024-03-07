@@ -36,7 +36,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjilalom&locale=en&layout=compact&card_width=320&langs_count=6&theme=nightowl&order=2" height="165" alt="languages graph"  />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=tanjilalom&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&locale=en&order=1" height="165" alt="stats graph" /> -->
-  <img src= "https://github-readme-stats.vercel.app/api?username=tanjilalom&theme=midnight-purple&include_all_commits=true&show_icons=true&order=1" height="165" alt="stats graph">
+  <img src= "https://github-readme-stats.vercel.app/api?username=tanjilalom&theme=nightowl&include_all_commits=true&show_icons=true&order=1" height="165" alt="stats graph">
   
 </div>
   
