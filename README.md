@@ -50,7 +50,6 @@
 ###
 
 
-
 <!--
 <img src="https://raw.githubusercontent.com/tanjilalom/tanjilalom/output/snake.svg" alt="Snake animation" />
 <div align="center">
