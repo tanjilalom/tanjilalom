@@ -116,8 +116,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjilalom&locale=en&layout=compact&card_width=320&langs_count=6&theme=nightowl&order=2"
-            height="165" alt="languages graph" />
-  <img src= "https://github-readme-stats.vercel.app/api?username=tanjilalom&theme=nightowl&include_all_commits=true&show_icons=true&order=1" height="165" alt="stats graph">
+              height="165" alt="languages graph" />
+    <img src= "https://github-readme-stats.vercel.app/api?username=tanjilalom&theme=nightowl&show_icons=true&order=1" height="165" alt="stats graph">
 </div>
 
 
