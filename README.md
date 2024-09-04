@@ -54,7 +54,7 @@
             <tr>
                 <td align="center" width="100">
                     <a href="https://developer.android.com/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=android" alt="icon" width="40" height="40"
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="icon" width="40" height="40"
                             alt="Android" />
                         <br>Android
                     </a>
@@ -127,11 +127,6 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilalom&radius=16&theme=material&area=true&order=5&hide_title=false"
             height="300" alt="activity-graph graph" />
 </div>
-
-###
-
-<br clear="both">
-    <img src="https://raw.githubusercontent.com/tanjilalom/tanjilalom/output/snake.svg" alt="Snake animation" />
 
 ###
 
