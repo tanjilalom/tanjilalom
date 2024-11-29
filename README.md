@@ -73,17 +73,17 @@
                     </a>
                 </td>
                 <td align="center" width="100">
-                    <a href="https://firebase.google.com/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40"
-                            alt="Firebase" />
-                        <br>Firebase
-                    </a>
-                </td>
-                <td align="center" width="100">
                     <a href="https://flutter.dev/" target="_blank">
                         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="40" height="40"
                             alt="Flutter" />
                         <br>Flutter
+                    </a>
+                </td>
+                <td align="center" width="100">
+                    <a href="https://firebase.google.com/" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40"
+                            alt="Firebase" />
+                        <br>Firebase
                     </a>
                 </td>
                 <td align="center" width="100">
