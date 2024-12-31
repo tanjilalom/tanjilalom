@@ -147,4 +147,8 @@
       <a href="https://github.com/tanjilalom/">
            <img src="https://img.shields.io/badge/living-Dhaka-ff69b4?username=tanjilalom" alt="living" />
       </a>
+    <a href="https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md">
+           <img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg" alt="StandWithPalestine" />
+      </a>
+    <!-- [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)-->
 </p>
