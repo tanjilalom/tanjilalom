@@ -118,15 +118,18 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjilalom&locale=en&layout=compact&card_width=320&langs_count=6&theme=nightowl&order=2"
               height="165" alt="languages graph" />
-    <img src= "https://github-readme-stats.vercel.app/api?username=tanjilalom&theme=nightowl&show_icons=true&order=1" height="165" alt="stats graph">
+    
+<img src= "https://github-readme-stats.vercel.app/api?username=tanjilalom&theme=nightowl&show_icons=true&order=1" height="165" alt="stats graph">
 </div>
 
 
 <div align="center">
       <img src="https://streak-stats.demolab.com?user=tanjilalom&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3"
-            height="170" width="500" alt="streak graph" /> <br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilalom&radius=16&theme=material&area=true&order=5&hide_title=false"
+            height="170" width="500" alt="streak graph" /> 
+    <br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilalom&radius=20&theme=github-compact&area=true&order=5&"
             height="300" alt="activity-graph graph" />
+
 </div>
 
 ###
@@ -150,5 +153,4 @@
     <a href="https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md">
            <img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg" alt="StandWithPalestine" />
       </a>
-    <!-- [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)-->
 </p>
