@@ -124,7 +124,7 @@
 
 
 <div align="center">
-     <img src="https://streak-stats.demolab.com/?user=tanjilalom&theme=nightowl&hide_border=true&border_radius=5&order=3
+     <img src="https://streak-stats.demolab.com/?user=tanjilalom&mode=daily&theme=nightowl&border_radius=5
             height="170" width="500" alt="streak graph" /> 
     <br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilalom&radius=20&theme=github-compact&area=true&order=5&"
