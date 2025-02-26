@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanjil Alom</h1>
 <h3 align="center">Android Developer | Flutter Developer </h3>
 
-- 💻 I’m currently working on Eappair Ltd as a **Trainee Proggramer (Flutter)**
+- 💻 I’m currently working on EON System as a **Trainee Proggramer (Flutter)**
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me **tanjilalom123@gmail.com**
 
