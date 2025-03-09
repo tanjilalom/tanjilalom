@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanjil Alom</h1>
 <h3 align="center">Android Developer | Flutter Developer </h3>
 
-- 💻 I’m currently working on EON System as a **Trainee Proggramer (Flutter)**
-- 🌱 I’m currently learning **Flutter**
-- 📫 How to reach me **tanjilalom123@gmail.com**
+- 💻 Currently working at <strong>EON System</strong> as a <em>Trainee Programmer (Flutter)</em><br>
+- 🌱 Learning <strong>Flutter</strong> and expanding my skills<br>
+- 📫 Reach me at: <strong>tanjilalom123@gmail.com</strong>
 
 ###
 
-<h3 align="left"><samp>Connect with me: </samp></h3>
+<h3 align="left"><samp>🌐 Connect with me: </samp></h3>
     <div style="display: flex; align-items: flex-start; align: center">
         <table align="left">
             <tr>
@@ -116,24 +116,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjilalom&locale=en&layout=compact&card_width=320&langs_count=6&theme=nightowl&order=2"
-              height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjilalom&locale=en&layout=compact&card_width=320&langs_count=6&theme=nightowl&order=2height="165" alt="languages graph" />
     
 <img src= "https://github-readme-stats.vercel.app/api?username=tanjilalom&theme=nightowl&show_icons=true&order=1" height="165" alt="stats graph">
 </div>
 
 
 <div align="center">
-     <img src="https://streak-stats.demolab.com/?user=tanjilalom&mode=daily&theme=nightowl&border_radius=5
-            height="170" width="500" alt="streak graph" /> 
+    <img src="https://streak-stats.demolab.com?user=tanjilalom&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=8&order=3" height="170" width="500" alt="streak graph"  />
     <br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilalom&radius=20&theme=github-compact&area=true&order=5&"
-            height="300" alt="activity-graph graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilalom&radius=20&theme=github-compact&area=true&order=5&height="300" alt="activity-graph graph" />
 
 </div>
 
 ###
-
 
 <p align="left">
       <a href="https://stackoverflow.com/users/22109115/tanjil-alom">
