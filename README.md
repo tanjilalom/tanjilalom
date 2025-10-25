@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanjil Alom</h1>
 <h3 align="center">Android Developer | Flutter Developer </h3>
 
-- 💻 Currently working at <strong>Right Brain Solution</strong> as a <em>Junior Apps Developer</em><br>
+- 💻 Currently working at <strong>Right Brain Solution Ltd</strong> as a <em>Junior Apps Developer</em><br>
 - 🌱 Learning <strong>Flutter</strong> and expanding my skills<br>
 - 📫 Reach me at: <strong>tanjilalom123@gmail.com</strong>
 
